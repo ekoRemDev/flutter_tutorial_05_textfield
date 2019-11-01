@@ -73,6 +73,4 @@ class _MyCustomFormState extends State<MyCustomForm> {
             ),
         );
     }
-
-
 }
